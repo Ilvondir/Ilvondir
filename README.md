@@ -9,11 +9,11 @@
   </a>
   
   <a href="https://github.com/Ilvondir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilvondir&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilvondir&hide_border=true&card_width=50%&theme=transparent" />
   </a>
   
   <a href="https://github.com/Ilvondir">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&card_width=50%&theme=transparent" />
   </a>
   
 </div>
