@@ -5,7 +5,7 @@
 <div align="center">
   
   <a href="https://github.com/Ilvondir">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilvondir&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilvondir&card_width=100%&theme=transparent" />
   </a>
   
   <a href="https://github.com/Ilvondir">
