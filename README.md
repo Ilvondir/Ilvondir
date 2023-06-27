@@ -16,5 +16,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&card_width=50%&theme=transparent" />
   </a>
   
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&theme=transparent)
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ilvondir&theme=transparent)
 </div>
