@@ -15,6 +15,10 @@
   <a href="https://github.com/Ilvondir">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&card_width=50%&theme=transparent" />
   </a>
+
+  <!--START_SECTION:waka-->
   
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ilvondir&theme=transparent)
+  <!--END_SECTION:waka-->
+  
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent)
 </div>
