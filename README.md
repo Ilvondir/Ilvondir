@@ -16,5 +16,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&card_width=50%&theme=transparent" />
   </a>
   
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent)
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent&hide=Java%20Properties,CSV/TSV,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file)
 </div>
