@@ -1,6 +1,6 @@
 # Hi, I'm Michał Komsa!👋
 
-### You can check my profile stats here.😊
+## You can check my profile stats and [all personal projects](https://github.com/Ilvondir?tab=repositories&type=public).😊
 
 <div align="center">
   
