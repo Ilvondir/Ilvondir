@@ -10,6 +10,8 @@ Below are some of my projects and statistics, which I invite you to explore!🤗
 
 <details open>
   <summary><h2>📈 Statistics</h2></summary>
+
+  <div align="center">
   
   <a href="https://github.com/Ilvondir">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilvondir&card_width=100%&theme=transparent" />
@@ -24,10 +26,14 @@ Below are some of my projects and statistics, which I invite you to explore!🤗
   </a>
   
   ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent&hide=Java%20Properties,INI,CSV/TSV,CSV,TSConfig,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file)
+</div>
+
 </details>
 
 <details open>
   <summary><h2>🏗️ Projects</h2></summary>
+
+  <div align="center">
 
   <a href="https://github.com/Ilvondir/factory-dashboard">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=factory-dashboard&theme=transparent" />
@@ -71,5 +77,5 @@ Below are some of my projects and statistics, which I invite you to explore!🤗
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=java-vending-machine&theme=transparent" />
   </a>
 
-  
+  </div>
 </details>
