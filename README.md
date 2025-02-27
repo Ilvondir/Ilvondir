@@ -25,7 +25,7 @@ Below are some of my projects and statistics, which I invite you to explore!🤗
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilvondir&card_width=50%&theme=transparent" />
   </a>
   
-  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent&hide=Java%20Properties,INI,OpenEdge%20ABL,CSV/TSV,CSV,BST,EditorConfig,TSConfig,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file,BibTeX,Log,Git,Git%20Config,Shell%20Script)
+  ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ilvondir&layout=compact&theme=transparent&hide=Java%20Properties,INI,OpenEdge%20ABL,CSV/TSV,CSV,BST,EditorConfig,TSConfig,Properties,Markdown,Text,textmate,Other,HTTP%20Request,.env%20file,Gitignore%20file,BibTeX,Log,Git,Git%20Config,Shell%20Script,Smarty)
 </div>
 
 </details>
