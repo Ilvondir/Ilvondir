@@ -38,45 +38,48 @@ Below are some of my projects and statistics, which I invite you to explore!🤗
   <a href="https://github.com/Ilvondir/factory-dashboard">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=factory-dashboard&theme=transparent" />
   </a>
-  <a href="https://github.com/Ilvondir/fancy-blog">
-    <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=fancy-blog&theme=transparent" />
-  </a>
-
-  <a href="https://github.com/Ilvondir/track-walk">
+    <a href="https://github.com/Ilvondir/track-walk">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=track-walk&theme=transparent" />
   </a>
+  
   <a href="https://github.com/Ilvondir/lem2">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=lem2&theme=transparent" />
   </a>
-  
   <a href="https://github.com/Ilvondir/eyetracker-webstores-observations-analysis">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=eyetracker-webstores-observations-analysis&theme=transparent" />
   </a>
+  
   <a href="https://github.com/Ilvondir/lingualight-portal">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=lingualight-portal&theme=transparent" />
   </a>
-  
+  <a href="https://github.com/Ilvondir/bifid-cipher">
+    <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=bifid-cipher&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/Ilvondir/fancy-blog">
+    <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=fancy-blog&theme=transparent" />
+  </a>
   <a href="https://github.com/Ilvondir/wonderman-online-store">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=wonderman-online-store&theme=transparent" />
   </a>
+  
   <a href="https://github.com/Ilvondir/minesweeper">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=minesweeper&theme=transparent" />
   </a>
-  
   <a href="https://github.com/Ilvondir/world-population-visualization">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=world-population-visualization&theme=transparent" />
   </a>
+  
   <a href="https://github.com/Ilvondir/campfire">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=campfire&theme=transparent" />
   </a>
-  
   <a href="https://github.com/Ilvondir/tic-tac-toe">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=tic-tac-toe&theme=transparent" />
   </a>
+  
   <a href="https://github.com/Ilvondir/library-management-system">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=library-management-system&theme=transparent" />
   </a>
-  
   <a href="https://github.com/Ilvondir/java-vending-machine">
     <img alt="Project." width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ilvondir&repo=java-vending-machine&theme=transparent" />
   </a>
